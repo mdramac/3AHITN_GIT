@@ -7,7 +7,7 @@ public class Main {
 
         System.out.println("Serkan du nutten");
 
-        System.out.println("hallo nutten");
+        System.out.println("hallo Swes");
     }
 
 }
