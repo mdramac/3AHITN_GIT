@@ -4,6 +4,8 @@ public class Main {
         System.out.println("Hallo du Serkan");
 
         System.out.println("Mateo du kleine Hund");
+
+        System.out.println("Serkan du nutten");
     }
 
 }
