@@ -9,9 +9,7 @@ public class Main {
 
         System.out.println("hallo Swes");
 
-        System.out.println("serkan mach was");
-
-        sout("Serkan");
+        System.out.println("Git is shit");
     }
 
 }
